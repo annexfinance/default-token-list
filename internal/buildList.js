@@ -29,7 +29,7 @@ const moonriver = require("../tokens/moonriver.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "SushiSwap Menu",
+    name: "Annex Finance Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -38,8 +38,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "https://www.annex.finance/images/ANN_132x132.png",
+    keywords: ["annexswap", "default"],
     tokens: [
       ...mainnet,
       ...ropsten,

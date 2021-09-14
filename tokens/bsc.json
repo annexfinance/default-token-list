@@ -1,5 +1,13 @@
 [
   {
+    "name": "Annex",
+    "symbol": "ANN",
+    "address": "0x98936Bde1CF1BFf1e7a8012Cee5e2583851f2067",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://www.annex.finance/images/ANN_132x132.png"
+  },
+  {
     "name": "Bakery Token",
     "symbol": "BAKE",
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
