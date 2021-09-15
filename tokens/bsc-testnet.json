@@ -8,12 +8,12 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
   },
   {
-    "name": "BUSD Token",
+    "name": "BUSD",
     "symbol": "BUSD",
     "address": "0x8301F2213c0eeD49a7E28Ae4c3e91722919B8B47",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    "logoURI": "https://www.annex.finance/images/tokens/BUSD.png"
   },
   {
     "name": "USDT Token",
